@@ -1,4 +1,4 @@
-#Information Technology 1600
+# Information Technology 1600
 
 _**Information Technology course 1600**_ provides a foundation of knowledge of digital systems including terminology, concepts, architecture, processes, tools, hardware, and software. 
 
