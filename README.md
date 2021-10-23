@@ -1,5 +1,5 @@
 # Name: [Corby Eckler](https://github.com/corbyt32/corbyt32/blob/main/IMG_1258.jpeg)
-### Major: **Information Technology '23** & **Parks Recreation & Sport '21**
+### Major: [**Information Technology '23**](http://catalog.missouri.edu/collegeofengineering/informationtechnology/bs-information-technology/) & [**Parks Recreation & Sport '21**](http://catalog.missouri.edu/collegeofagriculturefoodandnaturalresources/parksrecreationsport/bs-parks-recreation-sport/#semesterplan)
 ### I'm currently learning: Python, HTML & CSS, JavaScript and more.....
 #### I am mainly interested in web application & app development
 ##### You can reach me at corbin.eckler@gmail.com
