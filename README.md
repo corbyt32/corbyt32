@@ -1,4 +1,4 @@
-## Name: Corby Eckler
+# Name: [Corby Eckler](https://github.com/corbyt32/corbyt32/blob/main/IMG_1258.jpeg)
 ### Major: Information Technology '23 & Parks Recreation & Sport '21
 ### I'm currently learning: Python, HTML & CSS, JavaScript and more.....
 #### I am mainly interested in web application & app development
