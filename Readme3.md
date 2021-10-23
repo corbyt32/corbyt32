@@ -1,8 +1,8 @@
-#Information Technology 1040
+# Information Technology 1040
 
 Information Technology 1040 is a class introducing students to problem solving methods and programming concepts, providing experience in desinging, developing, implementing and testing programs. This course is based around Python and its platforms. After this course the student should have a basic understanding of how Python works and how to apply it to a variety of different situations and settings. 
 
-###The following topics are covered in this course:
+### The following topics are covered in this course:
 
 * Elements of a computer.
 * Purpose of programming and programming languages.
@@ -26,7 +26,8 @@ Information Technology 1040 is a class introducing students to problem solving m
 * Exception handling.
 * Fundamental object-oriented concepts.
 
-####Here is an example of the code I wrote for the project _**Cylinder Coatings Estimator**_:
+Go Back to [Main Page](https://github.com/corbyt32/corbyt32/blob/main/README.md)
+#### Here is an example of code that estimates how much paint a person will need for a project _**Cylinder Coatings Estimator**_:
 import math
 
 area_per_pint = 400/8
