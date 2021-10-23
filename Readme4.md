@@ -2,7 +2,7 @@
 
 _**Information Technology course 1600**_ provides a foundation of knowledge of digital systems including terminology, concepts, architecture, processes, tools, hardware, and software. 
 
-###Here is a list of what I have learned in class so far for each module:
+### Here is a list of what I have learned in class so far for each module:
 1. About INFOTC 1600 Digital Systems
 2. Digital Information
 3. Digital Audio & Digital Video
@@ -11,3 +11,5 @@ _**Information Technology course 1600**_ provides a foundation of knowledge of d
 6. Scalable Vector Graphics (SVG)
 7. Number Systems, Binary Numbers/Conversions
 8. Digital Networks
+
+Go Back to [Main Page](https://github.com/corbyt32/corbyt32/blob/main/README.md)
